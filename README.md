@@ -1,6 +1,6 @@
 # Jokely 
 ## A machine intelligent enough to create humanlike jokes
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1naor0BgRj4Q9x0NKPjBT7kqBqK3aKOuS?usp=sharing)
+[[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1naor0BgRj4Q9x0NKPjBT7kqBqK3aKOuS?usp=sharing)]
 A machine learning model that generates amazingly intelligent jokes
 ## How big is the training dataset
 Eventually the training dataset is 200,000 jokes
